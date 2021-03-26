@@ -42,3 +42,5 @@ As Wirth put it in his 1984 Turing Award lecture [9], one must “distinguish ea
 …every single project was primarily a learning experiment. One learns best by inventing. Only by actually doing a development project can I gain enough familiarity with the intrinsic difficulties and enough confidence that the inherent details can be mastered.
 
 The effectiveness of his systems, and his ability to build complex systems with small teams, relied on his constant search for elegant simplicity—for what could be left out. Over time his language designs and compiler techniques became, in some respects, simpler and more efficient rather than, as is almost universal, slower and more complex. In 1995 he warned that “The plague of software explosion is not a ‘law of nature.’ It is avoidable, and it is the software engineer's task to curtail it.”
+
+faccio una modifica
